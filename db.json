@@ -1,0 +1,19 @@
+{
+    "heros":[
+        {
+            "ID":1,
+            "name":"A",
+            "secondName":"a"
+        },
+        {
+            "ID":2,
+            "name":"B",
+            "secondName":"b"
+        },
+        {
+            "ID":3,
+            "name":"C",
+            "secondName":"c"
+        }
+    ]
+}
